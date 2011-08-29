@@ -1,3 +1,24 @@
+README				blacklist.pl			Version 0.1
+===============================================================
+
+This script is a modification of the original sshblack.pl script.
+
+The major change is the support for configuration files.
+
+The functionality is the same as the original script, however a
+configuration file can be used to specify the settings for a 
+specific log file. Thus, multiple copies of the of the script
+can run using different config files each with its own specific
+settings for a unique log file.
+
+This is a work in progress, and is not recommended to be used.
+
+Please use the original script for securing your systems.
+---------------------------------------------------------------
+
+The original readme file follows:
+===============================================================
+
 README.TXT for sshblack Version 2.8.1
 
 see http://www.pettingers.org/code/sshblack.html
