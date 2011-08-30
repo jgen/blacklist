@@ -1,4 +1,4 @@
-README				blacklist.pl			Version 0.1
+README          blacklist.pl                    Version 0.1
 ===============================================================
 
 This script is a modification of the original sshblack.pl script.
